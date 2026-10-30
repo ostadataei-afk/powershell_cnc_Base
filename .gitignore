@@ -1,0 +1,6 @@
+# CNC OptiCut base project
+PowerShell/7/
+tmp/
+Output/
+*.bak
+*.tmp
